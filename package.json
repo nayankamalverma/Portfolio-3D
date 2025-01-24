@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-react",
+  "version": "1.0.0",
+  "description": "my portfolio website",
+  "homepage": "https://github.com/nayankamalverma/Portfolio-React#readme",
+  "bugs": {
+    "url": "https://github.com/nayankamalverma/Portfolio-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayankamalverma/Portfolio-React.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "three": "^0.172.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
